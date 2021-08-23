@@ -1,0 +1,83 @@
+.main-div{
+    width: 1024px;
+    text-align: center;
+    margin: 30px auto;
+}
+/* ======Header-Sectin Css Start====== */
+.header{
+    
+}    
+/* ======Header-Sectin Css End====== */
+
+/* ======Banner-Sectin Css Start====== */
+.banner-section{
+    background-color: orange;
+    padding: 100px 0px;
+}
+.image {
+
+}
+img{
+    box-shadow: 15px 10px 10px 4px white;
+}
+/* ======Banner-Sectin Css End====== */
+
+/* ======First-Title Sectin Css Start====== */
+.first-title{
+
+}
+.first-title h1{
+
+}
+.first-title h2{
+
+}
+.first-title p{
+
+}
+/* ======First-Title Sectin Css End====== */
+
+/* ======Secend-Title Sectin Css Start====== */
+.secend-title{
+    background-color: #9b59b6;
+}
+.secend-title p{
+
+}
+.secend-title h3{
+    color: #95a7a6;
+    font-weight: bold;
+}
+/* ======Secend-Title Sectin Css End====== */
+
+/* ======Box-Section Sectin Css Start====== */
+.box-section{
+    text-align: center;
+    background-color: orange;
+    padding: 47px 0px;
+}
+.box-style {
+	height: 140px;
+	width: 450px;
+	background-color: #dcdcdc;
+	text-align: center;
+	display: inline-block;
+	border: dashed;
+	box-shadow: 25px 25px 2px 2px white;
+	border-radius: 10px;
+}
+.box-section .box-style h1 {
+	margin-top: 30px;
+	font-size: 75px;
+}
+/* ======Box-Section Sectin Css End====== */
+
+/* ======Footer-Section Sectin Css Start====== */
+.footer-section{
+
+}
+.footer-section h2 {
+	font-size: 1rem;
+	padding: 10px 0px 35px 0px;
+}
+/* ======Footer-Section Sectin Css Start====== */
